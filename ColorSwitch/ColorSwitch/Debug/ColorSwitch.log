@@ -1,0 +1,14 @@
+﻿  ColorSwitch.cpp
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,13): warning C4101: 'B': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,43): warning C4101: 'L': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,25): warning C4101: 'F': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,22): warning C4101: 'E': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,34): warning C4101: 'I': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,37): warning C4101: 'J': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,19): warning C4101: 'D': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,31): warning C4101: 'H': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,10): warning C4101: 'A': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,40): warning C4101: 'K': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,28): warning C4101: 'G': unreferenced local variable
+C:\Users\YiiTraLa\source\repos\ColorSwitch\ColorSwitch\ColorSwitch.cpp(26,16): warning C4101: 'C': unreferenced local variable
+  ColorSwitch.vcxproj -> C:\Users\YiiTraLa\source\repos\ColorSwitch\Debug\ColorSwitch.exe
